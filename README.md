@@ -2,14 +2,14 @@
 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 ![](https://img.shields.io/badge/Relationship-Single-red)
-![](https://img.shields.io/badge/👨‍💻-Web%%20Developer-brightgreen)
+![](https://img.shields.io/badge/👨‍💻-Web%20Developer-brightgreen)
 <!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
 
 <br>
 
-I am **Eftekhar Alam**, a *web application developer*. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I am flexible, reliable, and possess excellent time-keeping skills. I am an enthusiastic, self-motivated, reliable, responsible, and hard-working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using my own initiative.
+I am **Rofiqul Islam Shourov**, a *web application developer*. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I am flexible, reliable, and possess excellent time-keeping skills. I am an enthusiastic, self-motivated, reliable, responsible, and hard-working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using my own initiative.
 
-- 😎 Name pronunciation: ** if te khar** Nick Name - **iFTi**
+- 😎 Name pronunciation: ** if te khar** Nick Name - **Show Rob**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Life is beautifull.. 😐
 

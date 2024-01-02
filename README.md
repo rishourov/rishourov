@@ -2,7 +2,7 @@
 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 ![](https://img.shields.io/badge/Relationship-Single-red)
-![](https://img.shields.io/badge/👨‍💻-Web%20Application%20Developer-brightgreen)
+![](https://img.shields.io/badge/👨‍💻-Web%%20Developer-brightgreen)
 <!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
 
 <br>
